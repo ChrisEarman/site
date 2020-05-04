@@ -4,15 +4,22 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Welcome to my little quarantine project of a blog.
+Below is a list of the different quarantine food projects grouped by category.
 
 
-[jekyll-organization]: https://github.com/jekyll
+Recipes:
+-
+- Baked Goods:
+    - [Peanut Butter Cookies v1](/blog/2020/03/23/Peanut-Butter-Cookies-v1.html) , [v2 (GF)](/blog/2020/04/05/Peanut-Butter-Cookies-v2-Gluten-Free.html)
+    - [Sourdough Bread v1](/blog/2020/04/18/Sourdogh-Bread-v1.html) , [v2](/blog/2020/04/25/Sourdogh-Bread-v2.html)
+    - [Brown Butter Chocolate Chip Cookies](/blog/2020/04/27/BA-Brown-Butter-Cookies.html)
+    - [Buttermilk Biscuits](/blog/2020/05/02/Buttermilk-Biscuits.html)
+
+- Drinks:
+    - [Penicillin](/blog/2020/03/27/Penicillin.html)
+    - [Bacon Whiskey](/blog/2020/04/29/Bacon-Whiskey.html)
+
+- Other:
+    - [Cultured Butter](/blog/2020/04/19/Cultured-Butter.html)
+    - [Refrigerator Pickles](/blog/2020/04/22/Refrigerator-Pickles-v1.html)
