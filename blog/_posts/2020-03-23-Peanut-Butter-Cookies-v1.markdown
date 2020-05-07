@@ -51,7 +51,7 @@ Photos:
 [Todo] Cookie tube 
 
 [Todo] Cooked cookies 
-<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852802022/" title="Cooling Cookies"><img src="https://live.staticflickr.com/65535/49852802022_8c89eaca2d_c.jpg" width="800" height="600" alt="Cooling Cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852802022/" title="Cooling Cookies"><img src="https://live.staticflickr.com/65535/49852802022_8c89eaca2d_c.jpg" alt="Cooling Cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 Related Posts:
