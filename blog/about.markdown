@@ -12,7 +12,7 @@ Recipes:
 -
 - Baked Goods:
     - [Peanut Butter Cookies v1](/blog/2020/03/23/Peanut-Butter-Cookies-v1.html) , [v2 (GF)](/blog/2020/04/05/Peanut-Butter-Cookies-v2-Gluten-Free.html)
-    - [Sourdough Bread v1](/blog/2020/04/18/Sourdogh-Bread-v1.html) , [v2](/blog/2020/04/25/Sourdogh-Bread-v2.html)
+    - [Sourdough Bread v1](/blog/2020/04/18/Sourdogh-Bread-v1.html) , [v2](/blog/2020/04/25/Sourdogh-Bread-v2.html) , [v3 (Whole Wheat)](/blog/2020/05/09/Sourdogh-Bread-v3-Whole-Wheat.html)
     - [Brown Butter Chocolate Chip Cookies](/blog/2020/04/27/BA-Brown-Butter-Cookies.html)
     - [Buttermilk Biscuits](/blog/2020/05/02/Buttermilk-Biscuits.html)
     - [Flour Tortilla](/blog/2020/05/05/Flour-Tortillas.html)
@@ -23,4 +23,5 @@ Recipes:
 
 - Other:
     - [Cultured Butter](/blog/2020/04/19/Cultured-Butter.html)
+    - [Raspberry Jam](/blog/2020/05/10/Raspberry-Jam.html)
     - [Refrigerator Pickles](/blog/2020/04/22/Refrigerator-Pickles-v1.html)
