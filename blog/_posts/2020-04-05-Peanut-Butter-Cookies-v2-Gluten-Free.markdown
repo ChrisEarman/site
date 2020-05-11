@@ -49,8 +49,10 @@ looking for the tops of the cookies to set and making sure the bottoms don't bur
 
 Photos:
 -
-
-[Todo] GF cookies looking the same as non GF version 
+The really surprising thing about these cookies is that they taste indistinguishable from the glutenous counterparts.
+Something with how the peanut butter and sugar whip together help to keep a nice chewy structure in the cookies that make up
+for the lack of gluten. 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49851968083/in/dateposted-public/" title="cooling"><img src="https://live.staticflickr.com/65535/49851968083_ced732b29d_c.jpg" alt="cooling"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Related Posts:
 -
