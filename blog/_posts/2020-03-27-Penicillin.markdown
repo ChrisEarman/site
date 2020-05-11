@@ -59,10 +59,12 @@ When I made the drink I ended up making a mixture of the Lemon Juice + syrup tha
 then stored in the fridge for easy access.
 
 Ginger syrup will keep good in the fridge similar to a maple syrup or honey. 
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49851967133/in/dateposted-public/" title="Syrup"><img src="https://live.staticflickr.com/65535/49851967133_b2a74586d3_c.jpg" alt="Syrup"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49851968183/in/dateposted-public/" title="ingredients"><img src="https://live.staticflickr.com/65535/49851968183_e384e6dccb_c.jpg"  alt="ingredients"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
 End Product
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852504746/in/dateposted-public/" title="End product"><img src="https://live.staticflickr.com/65535/49852504746_8dbc69b3ab_c.jpg" alt="End product"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

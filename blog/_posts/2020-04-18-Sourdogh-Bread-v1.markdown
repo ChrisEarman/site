@@ -88,5 +88,6 @@ Finished Product:
 
 Related Posts:
 -
-- [Sourdough Bread v2](/blog/2020/04/25/Sourdogh-Bread-v2.html)
 - [Cultured Butter](/blog/2020/04/19/Cultured-Butter.html)
+- [Sourdough Bread v2](/blog/2020/04/25/Sourdogh-Bread-v2.html)
+- [Sourdough Bread v3 Whole Wheat](/blog/2020/05/09/Sourdogh-Bread-v3-Whole-Wheat.html)

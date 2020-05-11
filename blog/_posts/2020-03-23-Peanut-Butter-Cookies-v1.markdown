@@ -47,12 +47,15 @@ Photos:
 - 
 
 Dough ready to be cooked, sliced out of a tube.
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49851967303/in/dateposted-public/" title="cookies"><img src="https://live.staticflickr.com/65535/49851967303_94269e5edc_c.jpg" alt="cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Cookies fresh out of the oven.
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852801957/in/dateposted-public/" title="cookies"><img src="https://live.staticflickr.com/65535/49852801957_5f61f8b03d_c.jpg" alt="cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 Cookies cooling off on the rack
+
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49851966863/in/dateposted-public/" title="cookies"><img src="https://live.staticflickr.com/65535/49851966863_7478d0a7e0_c.jpg" alt="cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852802022/" title="Cooling Cookies"><img src="https://live.staticflickr.com/65535/49852802022_8c89eaca2d_c.jpg" alt="Cooling Cookies"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852503926/in/dateposted-public/" title="cookie bite"><img src="https://live.staticflickr.com/65535/49852503926_b4fd91d0f5_c.jpg" alt="cookie bite"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>

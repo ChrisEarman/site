@@ -7,10 +7,6 @@ categories: blog
 
 Source Recipe: [Binging With Babish Sourdough](https://basicswithbabish.co/basicsepisodes/sourdough-bread)
 
-Starter Care Instructions: 
-- [The Perfect Loaf: Weekend Baking Schedule](https://www.theperfectloaf.com/weekend-baking-schedule/) 
-- [The Perfect Loaf: Quarantine Reduced Waste Starter](https://www.theperfectloaf.com/keeping-a-smaller-sourdough-starter-to-reduce-waste/)
-
 Sourdough Bread v2
 -
 When I baked the first loaf it turned out great, with the exception that the bottom layer of crust came close to burning.
@@ -57,3 +53,4 @@ Just like last time, the crumb was extremely moist and airy, with great stretch 
 Related Posts:
 -
 - [Sourdough Bread v1](/blog/2020/04/18/Sourdogh-Bread-v1.html)
+- [Sourdough Bread v3 Whole Wheat](/blog/2020/05/09/Sourdogh-Bread-v3-Whole-Wheat.html)
