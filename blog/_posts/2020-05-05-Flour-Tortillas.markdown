@@ -43,4 +43,40 @@ in a clean dish towel to retain heat.
 
 Photos:
 - 
- 
+This is what the flour and shortening look like, unincorporated for context. 
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49880743648/in/datetaken-public/" title="IMG_1464"><img src="https://live.staticflickr.com/65535/49880743648_c0478a221f_c.jpg" alt="IMG_1464"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+I didn't have a food processor so I pinched the shortening into the flour until it resembled wet sand.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881274271/in/datetaken-public/" title="IMG_1466"><img src="https://live.staticflickr.com/65535/49881274271_f4569ba1ee_c.jpg" alt="IMG_1466"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+At this point we add the warm water to form the dough.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49880748938/in/datetaken-public/" title="IMG_1468"><img src="https://live.staticflickr.com/65535/49880748938_3c8a552650_c.jpg" alt="IMG_1468"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+This dough can be rolled and separated into equal pieces, placed on an oiled baking sheet then covered with plastic wrap to sit.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881273806/in/datetaken-public/" title="IMG_1472"><img src="https://live.staticflickr.com/65535/49881273806_37ca52515e_c.jpg" alt="IMG_1472"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881268961/in/datetaken-public/" title="IMG_1473"><img src="https://live.staticflickr.com/65535/49881268961_4969a3dbeb_c.jpg" alt="IMG_1473"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+After its rested an hour, we bring out each ball individually onto a liberally floured work bench to roll it out with a 
+liberally floured rolling pin. The end result should be a very thin sheet of dough.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881580102/in/datetaken-public/" title="IMG_1479"><img src="https://live.staticflickr.com/65535/49881580102_d35d978b7d_c.jpg" alt="IMG_1479"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49880744493/in/datetaken-public/" title="IMG_1481"><img src="https://live.staticflickr.com/65535/49880744493_524eac62cf_c.jpg" alt="IMG_1481"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
+Do the best you can to transfer this dough sheet to the preheated cast iron and avoid having the dough fold onto itself 
+(which as you can see I failed to do, but it still turned out alright).
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881581127/in/datetaken-public/" title="IMG_1482"><img src="https://live.staticflickr.com/65535/49881581127_df5f0edfb7_c.jpg" alt="IMG_1482"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The dough will change color as it cooks.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881580907/in/datetaken-public/" title="IMG_1483"><img src="https://live.staticflickr.com/65535/49881580907_4c9a56c641_c.jpg" alt="IMG_1483"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+Once you flip it you should see golden brown spots around the bubbles, this picture is of one that was a little under done, so if it yours
+are darker than this picture then it is a good thing.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881580392/in/datetaken-public/" title="IMG_1484"><img src="https://live.staticflickr.com/65535/49881580392_7f6c5dbc3d_c.jpg" alt="IMG_1484"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+The Finished Product.
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49881269661/in/datetaken-public/" title="IMG_1486"><img src="https://live.staticflickr.com/65535/49881269661_63d690efe7_c.jpg" alt="IMG_1486"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49880744878/in/datetaken-public/" title="IMG_1488"><img src="https://live.staticflickr.com/65535/49880744878_7a873ef6e8_c.jpg" alt="IMG_1488"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+
