@@ -53,4 +53,4 @@ Just like last time, the crumb was extremely moist and airy, with great stretch 
 Related Posts:
 -
 - [Sourdough Bread v1](/blog/2020/04/18/Sourdogh-Bread-v1.html)
-- [Sourdough Bread v3 Whole Wheat](/blog/2020/05/09/Sourdogh-Bread-v3-Whole-Wheat.html)
+- [Sourdough Bread v3 Whole Wheat](/blog/2020/05/09/Sourdough-Bread-v3-Whole-Wheat.html)

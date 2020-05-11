@@ -37,4 +37,4 @@ Photos:
 
 Related Posts:
 -
-- [Sourdough Bread v3 Whole Wheat](/blog/2020/05/09/Sourdogh-Bread-v3-Whole-Wheat.html)
+- [Sourdough Bread v3 Whole Wheat](/blog/2020/05/09/Sourdough-Bread-v3-Whole-Wheat.html)
