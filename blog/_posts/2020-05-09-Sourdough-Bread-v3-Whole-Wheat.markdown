@@ -7,7 +7,7 @@ categories: blog
 
 Variation on: [Sourdough Bread v1](/blog/2020/04/18/Sourdogh-Bread-v1.html), [v2](/blog/2020/04/25/Sourdogh-Bread-v2.html)
 
-Sourdough Bread v2 - Whole Wheat:
+Sourdough Bread v3 - Whole Wheat:
 - 
 I felt pretty comfortable making the sourdough loaves, so I wanted to try out different flour ratios to see how that 
 affects the bread. 
