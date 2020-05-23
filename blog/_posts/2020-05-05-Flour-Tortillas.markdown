@@ -80,3 +80,6 @@ The Finished Product.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49880744878/in/datetaken-public/" title="IMG_1488"><img src="https://live.staticflickr.com/65535/49880744878_7a873ef6e8_c.jpg" alt="IMG_1488"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 
+Related Posts:
+-
+ - [Corn Tortilla](/blog/2020/05/17/Courn-Tortillas.html)
