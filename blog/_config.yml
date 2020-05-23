@@ -21,7 +21,10 @@
 title: Home
 email: chris@earman.io
 description: >- # this means to ignore newlines until "baseurl:"
-  Recipes for quarantine and beyond
+  Recipes for quarantine and beyond.
+  This blog is mainly for my personal use to keep track of the different recipes I've tried.
+  Historically I've had a bad habit of finding recipes I've really enjoyed and just losing track of them online,
+  this is my solution.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  ChrisEarman
