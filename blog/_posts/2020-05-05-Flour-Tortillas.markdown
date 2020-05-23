@@ -82,4 +82,4 @@ The Finished Product.
 
 Related Posts:
 -
- - [Corn Tortilla](/blog/2020/05/17/Courn-Tortillas.html)
+ - [Corn Tortilla](/blog/2020/05/17/Corn-Tortillas.html)
