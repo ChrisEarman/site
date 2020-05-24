@@ -72,3 +72,8 @@ The result of my impatience was flat cookies :(
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49852807882/in/datetaken-public/" title="IMG_1390"><img src="https://live.staticflickr.com/65535/49852807882_3f15f97207_c.jpg" alt="IMG_1390"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 They were still extremely tasty, but just not quite the end result that I was looking for. 
+
+Related Posts:
+-
+- [Meringues](/blog/2020/05/22/Meringues.html) (If you're looking for a way to use up your excess egg whites)
+- [Brown Butter Chocolate Chip Cookies v2 (GF)](/blog/2020/05/24/Brown-Butter-Cookies-v2-Gluten-Free.html)

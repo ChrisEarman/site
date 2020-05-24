@@ -57,3 +57,5 @@ for the lack of gluten.
 Related Posts:
 -
 - [Peanut Butter Cookies v1](/blog/2020/03/23/Peanut-Butter-Cookies-v1.html)
+- [Brown Butter Chocolate Chip Cookies v2 (GF)](/blog/2020/05/24/Brown-Butter-Cookies-v2-Gluten-Free.html) - 
+For instructions on how to wrap the dough in plastic wrap

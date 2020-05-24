@@ -64,3 +64,5 @@ Cookies cooling off on the rack
 Related Posts:
 - 
 - [Peanut Butter Cookies v2 (GF)](/blog/2020/04/05/Peanut-Butter-Cookies-v2-Gluten-Free.html)
+- [Brown Butter Chocolate Chip Cookies v2 (GF)](/blog/2020/05/24/Brown-Butter-Cookies-v2-Gluten-Free.html) - 
+For instructions on how to wrap the dough in plastic wrap

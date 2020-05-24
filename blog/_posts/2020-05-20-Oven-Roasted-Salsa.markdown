@@ -55,3 +55,5 @@ a smoother salsa.
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49924320701/in/datetaken-public/" title="IMG_1635"><img src="https://live.staticflickr.com/65535/49924320701_c3dd477b4a_c.jpg" alt="IMG_1635"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49923801288/in/datetaken-public/" title="IMG_1637"><img src="https://live.staticflickr.com/65535/49923801288_6f9a16ef71_c.jpg" alt="IMG_1637"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
+
+<a data-flickr-embed="true" href="https://www.flickr.com/photos/188265593@N07/49931936421/in/datetaken-public/" title="IMG_1684"><img src="https://live.staticflickr.com/65535/49931936421_5dcd51ac3c_c.jpg" alt="IMG_1684"></a><script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
