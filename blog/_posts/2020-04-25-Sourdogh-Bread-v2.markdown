@@ -13,10 +13,15 @@ When I baked the first loaf it turned out great, with the exception that the bot
 After some research online I modified the following step of the instructions.
 
 
-> Steps:
->
-> +14. Remove the top from the dutch oven **and place the dutch oven on a room temperature baking sheet**, then lower the oven 
-to 450℉ and bake for an additional `20-30 minutes` until the loaf is a deep brown.
+Steps:
+{% highlight diff %}
+14. Remove the top from the dutch oven 
+>   and place the dutch oven on a room temperature baking sheet, 
+    then lower the oven to 450℉ and bake for an additional `20-30 minutes` 
+    until the loaf is a deep brown.
+{% endhighlight %}
+
+
 
 
 This worked out really well, and I highly recommend using this altered instruction set if you find the bottoms of your loaves

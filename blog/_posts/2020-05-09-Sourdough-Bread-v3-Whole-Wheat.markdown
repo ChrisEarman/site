@@ -12,12 +12,16 @@ Sourdough Bread v3 - Whole Wheat:
 I felt pretty comfortable making the sourdough loaves, so I wanted to try out different flour ratios to see how that 
 affects the bread. 
 
->Ingredients:
->- Dough:
->  - **250 grams** unbleached all purpose flour
->  - **200 grams** whole wheat flour
+Ingredients:
+- Dough
+{% highlight diff %}
+<  - `405 grams` bread flour (or all purpose)
+<  - `40 grams` whole wheat flour 
+---
+>  - `250 grams` unbleached all purpose flour
+>  - `200 grams` whole wheat flour
+{% endhighlight %}
 
-This is a change from before, where the ration was `405 grams` AP to `~45 grams` whole wheat flour.
 
 I also tried a different score pattern which helped to avoid any bursting at other locations in the crust. 
 
