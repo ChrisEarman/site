@@ -9,6 +9,8 @@ Source Recipe: [Mini Meringues](https://www.allrecipes.com/recipe/19890/mini-mer
 
 Meringues:
 -
+So I only really looked into making these meringues because I was trying to find a better way to use my extra egg whites
+left over from other recipes, but with how these turned out I'm glad I did. 
 
 Ingredients:
 - `2` egg whites
