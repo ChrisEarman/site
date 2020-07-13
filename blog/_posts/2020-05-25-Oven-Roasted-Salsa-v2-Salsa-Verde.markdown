@@ -8,7 +8,7 @@ categories: blog
 Salsa Verde:
 -
 This recipe has a fairly haphazard composition, similar to my original oven roasted salsa post, feel free to experiment 
-with the 
+with the ratios.
 
 Ingredients:
 - `6-8` tomatillos 

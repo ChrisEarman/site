@@ -15,6 +15,7 @@ Recipes:
     - [Buttermilk Biscuits](/blog/2020/05/02/Buttermilk-Biscuits.html)
     - [Cornbread](/blog/2020/06/06/Cornbread.html)
     - [Corn Tortilla](/blog/2020/05/17/Corn-Tortillas.html)
+    - [Cowboy Cookies](/blog/2020/07/05/Cowboy-Cookies.html)
     - [Flour Tortilla](/blog/2020/05/05/Flour-Tortillas.html)
     - [Meringues](/blog/2020/05/22/Meringues.html)
     - [Peanut Butter Cookies v1](/blog/2020/03/23/Peanut-Butter-Cookies-v1.html) , [v2 (GF)](/blog/2020/04/05/Peanut-Butter-Cookies-v2-Gluten-Free.html)
@@ -24,11 +25,13 @@ Recipes:
 - Drinks:
     - [Bacon Whiskey](/blog/2020/04/29/Bacon-Whiskey.html)
     - [Penicillin](/blog/2020/03/27/Penicillin.html)
+    - [Watermelon Vodka Mojito](/blog/2020/07/04/Watermelon-Vodka-Mojito.html)
 
 - Other:
     - [Cultured Butter](/blog/2020/04/19/Cultured-Butter.html)
     - [Oven Roasted Salsa](/blog/2020/05/20/Oven-Roasted-Salsa.html)
     - [Salsa Verde](/blog/2020/05/25/Oven-Roasted-Salsa-v2-Salsa-Verde.html)
+    - [Habenero Salsa](/blog/2020/07/12/Oven-Roasted-Salsa-v3-Hot-Orange.html)
     - [Raspberry Jam](/blog/2020/05/10/Raspberry-Jam.html)
     - [Refrigerator Pickles](/blog/2020/04/22/Refrigerator-Pickles-v1.html)
     
